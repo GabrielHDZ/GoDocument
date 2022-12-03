@@ -1,0 +1,2 @@
+descripcio de jemeplo para la lectura de 
+datos escritos en un archivo .txt
